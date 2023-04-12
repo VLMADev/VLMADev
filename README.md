@@ -19,13 +19,13 @@
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/matveev-vladislav/" target="_blank">
-      <img src="https://cdn-user-icons.flaticon.com/99189/99189410/1681280840685.svg?token=exp=1681281741~hmac=bf6e5093ecb91a81f6015f68720fa18a" width="40" height="40" alt="linkedin" />
+      <img src="https://i.ibb.co/3Bf8kd7/002-linkedin.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/VLMADev" target="_blank">
-      <img src="https://github.com/gauravghongde/social-icons/tree/master/SVG/Color/LinkedIN.svg" width="40" height="40" alt="telegram group"/>
+      <img src="https://i.ibb.co/gP784Rp/001-telegram.png" width="40" height="40" alt="telegram group"/>
     </a>
     <a href="mailto:angrucat@gmail.com" target="_blank">
-      <img src="https://cdn-user-icons.flaticon.com/99189/99189410/1681280978172.svg?token=exp=1681281878~hmac=3476c5bd6fc1e4af9570d4aeaadb95c7" width="40" height="40" alt="telegram group"/>
+      <img src="https://i.ibb.co/MBhB3bz/003-gmail.png" width="40" height="40" alt="telegram group"/>
     </a>
   </div>
 

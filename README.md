@@ -7,9 +7,9 @@
 
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.  
 
-- :telescope: Изучаю веб-разработку самомтоятельно.
+<!---- :telescope: Изучаю веб-разработку самомтоятельно.-->
 
-<!--- :zap: Хочу найти новую работу.-->
+ :zap: Хочу найти новую работу.
 
 <!-- - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-MatveevVladislav-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/VLMADev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-darkred?style=flat&logo=Gmail&logoColor=white)](mailto:angrucat@gmail.com) -->
 
